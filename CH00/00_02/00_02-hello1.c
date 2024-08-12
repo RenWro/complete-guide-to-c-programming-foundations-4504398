@@ -1,8 +1,8 @@
 #include <stdio.h>
 
-int main()
+int (main)
 {
-	printf("Hello, world!");
-
-	return 0;
+  puts ("Goodbye, cruel world!";
+  return (0);
 }
+
