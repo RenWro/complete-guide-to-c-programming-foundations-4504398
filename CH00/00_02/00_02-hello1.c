@@ -3,6 +3,6 @@
 int (main)
 {
   puts ("Goodbye, cruel world!";
-  return (0);
+  return 0;
 }
 
